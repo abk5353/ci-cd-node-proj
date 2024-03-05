@@ -1,0 +1,36 @@
+# Node.js Dependencies
+node_modules/
+
+# Compiled binary addons (if any)
+**/*.node
+
+# Logs
+logs
+*.log
+
+# Dependency directory (npm-debug.log)
+npm-debug.log*
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variables file
+.env
+
+# Built production files
+dist/
+build/
+
+# Editor specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore package-lock.json if you're using npm <= 5.x
+package-lock.json
